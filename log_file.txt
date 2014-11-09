@@ -1,2 +1,3 @@
 step1: new file created, branch1
 step2: change from someone else
+step3: direct change in repository in master
