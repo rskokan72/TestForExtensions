@@ -1,0 +1,6 @@
+step1: new file created, branch1
+<<<<<<< HEAD
+step2: change from someone else
+=======
+step2: my change
+>>>>>>> Branch2
